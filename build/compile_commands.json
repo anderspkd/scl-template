@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/anders/src/personal/scl-template/build",
+  "command": "/usr/bin/c++  -I/home/anders/src/personal/scl-template/src  -march=native -Wall -Wextra -pedantic -Werror -std=gnu++17 -O2 -g -o CMakeFiles/run.x.dir/src/main.cc.o -c /home/anders/src/personal/scl-template/src/main.cc",
+  "file": "/home/anders/src/personal/scl-template/src/main.cc"
+}
+]
