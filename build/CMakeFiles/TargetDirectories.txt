@@ -1,3 +1,0 @@
-/home/anders/src/personal/scl-template/build/CMakeFiles/run.x.dir
-/home/anders/src/personal/scl-template/build/CMakeFiles/edit_cache.dir
-/home/anders/src/personal/scl-template/build/CMakeFiles/rebuild_cache.dir

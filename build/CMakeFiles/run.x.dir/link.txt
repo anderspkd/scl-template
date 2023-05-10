@@ -1,1 +1,0 @@
-/usr/bin/c++  -march=native -Wall -Wextra -pedantic -Werror -std=gnu++17 -O2 -g CMakeFiles/run.x.dir/src/main.cc.o -o run.x  -Wl,-rpath,/usr/local/lib /usr/local/lib/libscl.so /usr/lib/x86_64-linux-gnu/libgmp.so 
