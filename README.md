@@ -32,3 +32,12 @@ Required arguments
 
 build/$
 ```
+
+An example of a network config is provided. See `3_parties.txt`. To run the
+protocol, provided the required arguments listed above. For example,
+
+```
+build/$ ./run.x -id 0 -conf ../3_parties.txt
+```
+
+to run party 0.
