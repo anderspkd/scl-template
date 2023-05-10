@@ -8,6 +8,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 include_directories (src)
 
+find_library(GMP gmp libgmp REQUIRED)
 find_library(SCL scl REQUIRED)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
@@ -17,3 +18,4 @@ set(SOURCE_FILES
 
 add_executable(run.x ${SOURCE_FILES})
 target_link_libraries(run.x ${SCL})
+target_link_libraries(run.x ${GMP})
